@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteV">#EEEEFF</color>
+    <color name="orange_tfd">#F81413</color>
+    <color name="orange_tfd2">#F93C39</color>
+    <color name="green_tfd">#B9DC88</color>
+    <color name="green_tfd2">#317B22</color>
+    <color name="Azulfacebook">#3b5998</color>
+    <color name="gris">#f0f0f3</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="grey1">#6f6f78</color>
+    <color name="Light_grey">#ebebeb</color>
+
+
+
+</resources>

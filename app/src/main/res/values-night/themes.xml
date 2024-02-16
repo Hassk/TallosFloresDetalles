@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TFD" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="SplashTheme" parent="Base.Theme.TFD">
+     <item name="android:windowBackground">
+       @drawable/splashscreem
+     </item>
+
+    </style>
+    <style name="ThemeOverlay.TFD.FullscreenContainer" parent="">
+
+    </style>
+</resources>

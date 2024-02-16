@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946159653089",
+    "project_id": "tafd-6739e",
+    "storage_bucket": "tafd-6739e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946159653089:android:2cf7a05df5eef0964767a0",
+        "android_client_info": {
+          "package_name": "com.bernardosoler.tfd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946159653089-5ufq5nfnqc486flqdd6sn2r0ga6d8m3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bernardosoler.tfd",
+            "certificate_hash": "409a7dfc724ba547539dcfd6e0d9d9e2930cbc02"
+          }
+        },
+        {
+          "client_id": "946159653089-a8d8qih41snishg5e0u5kdbeq9bql92n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17RNVR9BHXopsBBJ8F0O3J6r_is6PlQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946159653089-5udn83ao40aqqfu2akugbkio4h7k5hto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
